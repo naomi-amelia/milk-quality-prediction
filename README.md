@@ -1,6 +1,6 @@
 # Overview
 
-In this notebook, I conducted milk quality prediction using `classification` machine learning method by using [this] (https://www.kaggle.com/datasets/cpluzshrijayan/milkquality) dataset. 
+In this notebook, I conducted milk quality prediction using `classification` machine learning method by using [this](https://www.kaggle.com/datasets/cpluzshrijayan/milkquality) dataset. 
 
 # Libraries Used
 
